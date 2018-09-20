@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Inactive__c</fullName>
+    <defaultValue>false</defaultValue>
+    <description>Indicates that a trigger shouldn&#39;t run</description>
+    <externalId>false</externalId>
+    <fieldManageability>DeveloperControlled</fieldManageability>
+    <inlineHelpText>Indicates that a trigger shouldn&#39;t run</inlineHelpText>
+    <label>Inactive</label>
+    <type>Checkbox</type>
+</CustomField>

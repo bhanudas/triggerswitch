@@ -1,0 +1,9 @@
+.classpath
+.DS_Store
+.sfdx
+.project
+.salesforce
+.settings
+.vscode
+mdapi_output_dir/*
+

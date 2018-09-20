@@ -1,2 +1,14 @@
-# triggerswitch
-Titanium weight switch for APEX Triggers in Salesforce 
+# SFDX  App
+
+## Dev, Build and Test
+
+
+## Resources
+
+
+## Description of Files and Directories
+
+
+## Issues
+
+
