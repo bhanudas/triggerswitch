@@ -1,14 +1,10 @@
-# SFDX  App
+Titanium weight, super duper basic Trigger Switch
 
-## Dev, Build and Test
+Use this SFDX project and deploy into your org.  Not much to it, check out the 
+Contact Trigger for how to implement.
 
+Contact Bhanudas Tanaka at bhanu@databasesherpa.com for any help with using it!
+Or just drop me a line if you decide to implement this!
 
-## Resources
-
-
-## Description of Files and Directories
-
-
-## Issues
-
+From the Non-Profit community at Salesforce.com with love
 
